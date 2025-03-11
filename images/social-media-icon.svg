@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="40" cy="40" r="38" fill="rgba(28, 170, 217, 0.1)" stroke="#1CAAD9" stroke-width="2"/>
+    
+    <!-- Connection Lines -->
+    <path d="M30 35L20 45M50 35L60 45M40 30L40 50" 
+          stroke="#1CAAD9" stroke-width="2.5" stroke-linecap="round"/>
+    
+    <!-- Social Media Nodes -->
+    <circle cx="40" cy="25" r="8" fill="#1CAAD9"/>
+    <circle cx="20" cy="50" r="8" fill="#1CAAD9"/>
+    <circle cx="60" cy="50" r="8" fill="#1CAAD9"/>
+    
+    <!-- Inner Details -->
+    <circle cx="40" cy="25" r="4" fill="white"/>
+    <circle cx="20" cy="50" r="4" fill="white"/>
+    <circle cx="60" cy="50" r="4" fill="white"/>
+    
+    <!-- Decorative Elements -->
+    <path d="M15 25A30 30 0 0 1 65 25" 
+          stroke="#1CAAD9" stroke-width="2" 
+          stroke-linecap="round" 
+          stroke-dasharray="4 4"/>
+</svg>

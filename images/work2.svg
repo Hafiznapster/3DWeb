@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="800" height="600" fill="#111111"/>
+    <rect x="150" y="100" width="500" height="300" rx="8" fill="#222222" stroke="#333333" stroke-width="2"/>
+    <text x="400" y="250" font-family="Arial" font-size="24" fill="#FFFFFF" text-anchor="middle">AI Interface Design</text>
+    <rect x="200" y="300" width="400" height="40" rx="4" fill="#1CAAD9" opacity="0.3"/>
+    <rect x="200" y="360" width="200" height="40" rx="4" fill="#1CAAD9" opacity="0.6"/>
+    <circle cx="650" cy="450" r="50" fill="#1CAAD9" opacity="0.2"/>
+</svg>
